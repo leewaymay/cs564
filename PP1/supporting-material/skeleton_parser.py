@@ -74,15 +74,19 @@ item in the data set. Your job is to extend this functionality to create all
 of the necessary SQL tables for your database.
 """
 def parseJson(json_file):
+    print "ka"
     with open(json_file, 'r') as f:
+        print "lalala"
         items = loads(f.read())['Items'] # creates a Python dictionary of Items for the supplied json file
+        print items
         for item in items:
             """
             TODO: traverse the items dictionary to extract information from the
             given `json_file' and generate the necessary .dat files to generate
             the SQL tables based on your relation design
             """
-            pass
+            #print items.keys()
+            #pass
 
 """
 Loops through each json files provided on the command line and passes each file
