@@ -5,3 +5,5 @@ update Item set Description = null where Description = "NULL";
 .import uniqUser.dat User
 update User set Location = null where Location = "NULL";
 update User set Country = null where Country = "NULL";
+.import uniqCat.dat Category
+.import uniqBid.dat Bid
