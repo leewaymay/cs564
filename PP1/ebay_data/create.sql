@@ -38,3 +38,4 @@ create table Bid (
 	FOREIGN KEY (ItemID) REFERENCES Item(ItemID), 
 	FOREIGN KEY (BidderID) REFERENCES User(UserID) 
 );
+

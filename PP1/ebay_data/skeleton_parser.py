@@ -77,6 +77,8 @@ def transformDollar(money):
         return money
     return sub(r'[^\d.]', '', money)
 
+def addQuote(s): 
+    return '"' + sub(r'"', '""', s) + '"'
 """
 Parses a single json file. Currently, there's a loop that iterates over each
 item in the data set. Your job is to extend this functionality to create all
@@ -98,14 +100,13 @@ def parseJson(json_file):
                     record = transformDttm(record) if record != 'NULL' else record 
                 if (key == 'Currently' or key == 'Buy_Price' or key == 'First_Bid'):
                     record = transformDollar(record) if record != 'NULL' else record 
-                #record = sub(r'"', '""', record)
-                #to_write += '"' + record + '"' + columnSeparator
-                to_write += record + columnSeparator                
+                to_write += addQuote(record) + columnSeparator
+                #to_write += record + columnSeparator                
             to_write = to_write + item['Seller']['UserID'] + '\n'
             f_Item.write(to_write)
 
-            f_User.write(item['Seller']['UserID']+columnSeparator+item['Seller']['Rating']+columnSeparator+item['Location']+columnSeparator
-                + item['Country']+'\n')
+            f_User.write(addQuote(item['Seller']['UserID'])+columnSeparator+addQuote(item['Seller']['Rating'])+columnSeparator+addQuote(item['Location'])+columnSeparator
+                + addQuote(item['Country'])+'\n')
             if item['Bids']:
                 for subitem in item['Bids']:
                     if subitem['Bid'] and subitem['Bid']['Bidder']:
@@ -114,19 +115,18 @@ def parseJson(json_file):
                         userid = "NULL" if not subitem['Bid']['Bidder']['UserID'] else subitem['Bid']['Bidder']['UserID']
                         rating = "NULL" if not subitem['Bid']['Bidder']['Rating'] else subitem['Bid']['Bidder']['Rating']
 
-
-                        f_User.write(userid+columnSeparator+rating+columnSeparator+location+columnSeparator+country+'\n')
+                        f_User.write(addQuote(userid)+columnSeparator+addQuote(rating)+columnSeparator+addQuote(location)+columnSeparator+addQuote(country)+'\n')
                     if subitem['Bid']:
                         itemid = item['ItemID']
                         time = transformDttm(subitem['Bid']['Time']) if subitem['Bid']['Time'] else 'NULL'
                         amount = transformDollar(subitem['Bid']['Amount']) if subitem['Bid']['Amount'] else 'NULL'
                         bidder = "NULL" if not subitem['Bid']['Bidder']['UserID'] else subitem['Bid']['Bidder']['UserID']
 
-                        f_Bid.write(itemid + columnSeparator + time + columnSeparator + amount + columnSeparator + bidder + '\n')
+                        f_Bid.write(addQuote(itemid) + columnSeparator + addQuote(time) + columnSeparator + addQuote(amount) + columnSeparator + addQuote(bidder) + '\n')
 
             if item['Category']:
                 for cat in item['Category']:
-                    f_Category.write(item['ItemID'] + columnSeparator + cat + '\n')
+                    f_Category.write(addQuote(item['ItemID']) + columnSeparator + addQuote(cat) + '\n')
             #print item.keys()
             """
             TODO: traverse the items dictionary to extract information from the
