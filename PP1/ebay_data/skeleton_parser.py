@@ -98,8 +98,9 @@ def parseJson(json_file):
                     record = transformDttm(record) if record != 'NULL' else record 
                 if (key == 'Currently' or key == 'Buy_Price' or key == 'First_Bid'):
                     record = transformDollar(record) if record != 'NULL' else record 
-
-                to_write += record + columnSeparator
+                #record = sub(r'"', '""', record)
+                #to_write += '"' + record + '"' + columnSeparator
+                to_write += record + columnSeparator                
             to_write = to_write + item['Seller']['UserID'] + '\n'
             f_Item.write(to_write)
 
@@ -110,9 +111,9 @@ def parseJson(json_file):
                     if subitem['Bid'] and subitem['Bid']['Bidder']:
                         location = "NULL" if ('Location' not in subitem['Bid']['Bidder'].keys() or (not subitem['Bid']['Bidder']['Location'])) else subitem['Bid']['Bidder']['Location']
                         country = "NULL" if ('Country' not in subitem['Bid']['Bidder'].keys() or (not subitem['Bid']['Bidder']['Country'])) else subitem['Bid']['Bidder']['Country']
-
                         userid = "NULL" if not subitem['Bid']['Bidder']['UserID'] else subitem['Bid']['Bidder']['UserID']
                         rating = "NULL" if not subitem['Bid']['Bidder']['Rating'] else subitem['Bid']['Bidder']['Rating']
+
 
                         f_User.write(userid+columnSeparator+rating+columnSeparator+location+columnSeparator+country+'\n')
                     if subitem['Bid']:
