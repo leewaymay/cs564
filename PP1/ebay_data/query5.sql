@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM (SELECT DISTINCT U.userID FROM User U, Item I WHERE I.SellerID = U.userID AND U.Rating > 1000);
