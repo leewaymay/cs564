@@ -219,7 +219,8 @@ and a pointer to the buffer frame allocated for the page via the page parameter.
 		// Insert entry to hashtable
 		hashTable->insert(file, pageNo, frameNo);
 		// Invoke set on the frame
-		bufDescTable[frameNo].Set(file, pageNo);		
+		bufDescTable[frameNo].Set(file, pageNo);
+		bufPool[frameNo] = tempPage;
 		page = &(bufPool[frameNo]);			
 
 	}
