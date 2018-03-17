@@ -116,7 +116,7 @@ void BufMgr::readPage(File* file, const PageId pageNo, Page*& page)
 		bufDescTable[frameNo].pinCnt++;
 
 		// and then return a pointer to the frame containing the page via the page parameter.
-		page = &bufPool[frameNo];
+		page = &(bufPool[frameNo]);
 	}
 	catch(HashNotFoundException e) {
 		
@@ -131,7 +131,7 @@ void BufMgr::readPage(File* file, const PageId pageNo, Page*& page)
 			//  invoke Set() on the frame to set it up properly
 			bufDescTable[frameNo].Set(file, pageNo);
 			// Return a pointer	to the frame containing the page via the page parameter
-			page = &bufPool[frameNo];			
+			page = &(bufPool[frameNo]);			
 		}
 		catch(BufferExceededException e)
 		{
@@ -220,7 +220,7 @@ and a pointer to the buffer frame allocated for the page via the page parameter.
 		hashTable->insert(file, pageNo, frameNo);
 		// Invoke set on the frame
 		bufDescTable[frameNo].Set(file, pageNo);		
-		page = &bufPool[frameNo];			
+		page = &(bufPool[frameNo]);			
 
 	}
 	catch(BufferExceededException e) {
