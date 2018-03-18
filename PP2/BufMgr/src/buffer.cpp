@@ -70,7 +70,6 @@ void BufMgr::allocBuf(FrameId & frame)
 		else if ( bufDescTable[clockHand].refbit ) {
 			// The current frame refbit is true. Set to false and advance
 			bufDescTable[clockHand].refbit = false;
-			continue;
 		}
 		else if ( bufDescTable[clockHand].pinCnt == 0) {
 			// The current frame is not pinned. Choose this frame.
@@ -81,9 +80,7 @@ void BufMgr::allocBuf(FrameId & frame)
 			frame = clockHand;
 			return;
 		}
-		else {
-			if (bufDescTable[clockHand].pinCnt > 0) occupiedframe++;
-		}		
+		if (bufDescTable[clockHand].pinCnt > 0) occupiedframe++;
 	}
 
 	// All frames pinned, throws BufferExceededException  
@@ -107,8 +104,11 @@ void BufMgr::readPage(File* file, const PageId pageNo, Page*& page)
 	• 
 	**/
 	FrameId frameNo;
+
+
 	try {
 		hashTable->lookup(file, pageNo, frameNo);
+		
 		// Case 2: Page is in the buffer pool.  increment
 
 		// Set the appropriate refbit, he pinCnt for the page
@@ -117,16 +117,21 @@ void BufMgr::readPage(File* file, const PageId pageNo, Page*& page)
 
 		// and then return a pointer to the frame containing the page via the page parameter.
 		page = &(bufPool[frameNo]);
+		
 	}
 	catch(HashNotFoundException e) {
 		
-		// Case 1: Page is not in the buffer pool.  
+		// Case 1: Page is not in the buffer pool. 
+		
 		try {
 			// Call allocBuf() to allocate a buffer frame
 			allocBuf(frameNo);
 			// Call file->readPage() to read the page from disk into the buffer pool frame 
 			bufPool[frameNo] = file->readPage(pageNo);
 			// Insert the page into the hashtable
+			if (bufDescTable[frameNo].valid) {
+				hashTable->remove(bufDescTable[frameNo].file, bufDescTable[frameNo].pageNo);
+			}
 			hashTable->insert(file, pageNo, frameNo);
 			//  invoke Set() on the frame to set it up properly
 			bufDescTable[frameNo].Set(file, pageNo);
@@ -136,6 +141,7 @@ void BufMgr::readPage(File* file, const PageId pageNo, Page*& page)
 		catch(BufferExceededException e)
 		{
 			//TODO anything?
+			std::cout << "BufferExceededException!\n";
 			return;
 		}
 
@@ -212,20 +218,24 @@ and a pointer to the buffer frame allocated for the page via the page parameter.
 	try {
 		// Call file->allocatePage() , return a newly allocated page.
 		Page tempPage = file->allocatePage();
-		page = &tempPage;
-		pageNo = page->page_number();
+		pageNo = tempPage.page_number();
 		// AllocBuf() is called to obtain a buffer pool frame
 		allocBuf(frameNo);
 		// Insert entry to hashtable
+		if (bufDescTable[frameNo].valid) {
+			hashTable->remove(bufDescTable[frameNo].file, bufDescTable[frameNo].pageNo);				
+		}
 		hashTable->insert(file, pageNo, frameNo);
 		// Invoke set on the frame
 		bufDescTable[frameNo].Set(file, pageNo);
 		bufPool[frameNo] = tempPage;
+		// return the page in the buffer frame
 		page = &(bufPool[frameNo]);			
 
 	}
 	catch(BufferExceededException e) {
 		disposePage(file, pageNo);
+		throw BufferExceededException();
 	}
 }
 
@@ -258,6 +268,7 @@ void BufMgr::printSelf(void)
   }
 
 	std::cout << "Total Number of Valid Frames:" << validFrames << "\n";
+	std::cout << "clockHand =  " << clockHand <<"\n";
 }
 
 }

@@ -1,0 +1,1833 @@
+Found record: hello! on page 1
+Found record: hello! on page 2
+Found record: hello! on page 3
+Found record: hello! on page 4
+Found record: hello! on page 5
+Third page has a new record: world!
+
+pageNo = 1 pageNo = 2 pageNo = 3 pageNo = 4 pageNo = 5 pageNo = 6 pageNo = 7 pageNo = 8 pageNo = 9 pageNo = 10 pageNo = 11 pageNo = 12 pageNo = 13 pageNo = 14 pageNo = 15 pageNo = 16 pageNo = 17 pageNo = 18 pageNo = 19 pageNo = 20 pageNo = 21 pageNo = 22 pageNo = 23 pageNo = 24 pageNo = 25 pageNo = 26 pageNo = 27 pageNo = 28 pageNo = 29 pageNo = 30 pageNo = 31 pageNo = 32 pageNo = 33 pageNo = 34 pageNo = 35 pageNo = 36 pageNo = 37 pageNo = 38 pageNo = 39 pageNo = 40 pageNo = 41 pageNo = 42 pageNo = 43 pageNo = 44 pageNo = 45 pageNo = 46 pageNo = 47 pageNo = 48 pageNo = 49 pageNo = 50 pageNo = 51 pageNo = 52 pageNo = 53 pageNo = 54 pageNo = 55 pageNo = 56 pageNo = 57 pageNo = 58 pageNo = 59 pageNo = 60 pageNo = 61 pageNo = 62 pageNo = 63 pageNo = 64 pageNo = 65 pageNo = 66 pageNo = 67 pageNo = 68 pageNo = 69 pageNo = 70 pageNo = 71 pageNo = 72 pageNo = 73 pageNo = 74 pageNo = 75 pageNo = 76 pageNo = 77 pageNo = 78 pageNo = 79 pageNo = 80 pageNo = 81 pageNo = 82 pageNo = 83 pageNo = 84 pageNo = 85 pageNo = 86 pageNo = 87 pageNo = 88 pageNo = 89 pageNo = 90 pageNo = 91 pageNo = 92 pageNo = 93 pageNo = 94 pageNo = 95 pageNo = 96 pageNo = 97 pageNo = 98 pageNo = 99 pageNo = 100 page found on 0
+page found on 1
+page found on 2
+page found on 3
+page found on 4
+page found on 5
+page found on 6
+page found on 7
+page found on 8
+page found on 9
+page found on 10
+page found on 11
+page found on 12
+page found on 13
+page found on 14
+page found on 15
+page found on 16
+page found on 17
+page found on 18
+page found on 19
+page found on 20
+page found on 21
+page found on 22
+page found on 23
+page found on 24
+page found on 25
+page found on 26
+page found on 27
+page found on 28
+page found on 29
+page found on 30
+page found on 31
+page found on 32
+page found on 33
+page found on 34
+page found on 35
+page found on 36
+page found on 37
+page found on 38
+page found on 39
+page found on 40
+page found on 41
+page found on 42
+page found on 43
+page found on 44
+page found on 45
+page found on 46
+page found on 47
+page found on 48
+page found on 49
+page found on 50
+page found on 51
+page found on 52
+page found on 53
+page found on 54
+page found on 55
+page found on 56
+page found on 57
+page found on 58
+page found on 59
+page found on 60
+page found on 61
+page found on 62
+page found on 63
+page found on 64
+page found on 65
+page found on 66
+page found on 67
+page found on 68
+page found on 69
+page found on 70
+page found on 71
+page found on 72
+page found on 73
+page found on 74
+page found on 75
+page found on 76
+page found on 77
+page found on 78
+page found on 79
+page found on 80
+page found on 81
+page found on 82
+page found on 83
+page found on 84
+page found on 85
+page found on 86
+page found on 87
+page found on 88
+page found on 89
+page found on 90
+page found on 91
+page found on 92
+page found on 93
+page found on 94
+page found on 95
+page found on 96
+page found on 97
+page found on 98
+page found on 99
+Test 1 passed
+pageNo = 1 file2 
+pageno1 = 84
+page found on 83
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:1 file:test.1 pageNo:2 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:2 file:test.1 pageNo:3 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:3 file:test.1 pageNo:4 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:4 file:test.1 pageNo:5 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:5 file:test.1 pageNo:6 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:6 file:test.1 pageNo:7 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:7 file:test.1 pageNo:8 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:8 file:test.1 pageNo:9 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:9 file:test.1 pageNo:10 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:10 file:test.1 pageNo:11 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:11 file:test.1 pageNo:12 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:12 file:test.1 pageNo:13 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:13 file:test.1 pageNo:14 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:14 file:test.1 pageNo:15 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.1 pageNo:17 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:17 file:test.1 pageNo:18 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  0
+pageNo = 1 file3 
+page found on 0
+page found on 1
+pageNo = 2 file2 
+pageno1 = 87
+page found on 86
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:3 file:test.1 pageNo:4 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:4 file:test.1 pageNo:5 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:5 file:test.1 pageNo:6 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:6 file:test.1 pageNo:7 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:7 file:test.1 pageNo:8 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:8 file:test.1 pageNo:9 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:9 file:test.1 pageNo:10 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:10 file:test.1 pageNo:11 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:11 file:test.1 pageNo:12 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:12 file:test.1 pageNo:13 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:13 file:test.1 pageNo:14 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:14 file:test.1 pageNo:15 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.1 pageNo:17 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:17 file:test.1 pageNo:18 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  2
+pageNo = 2 file3 
+page found on 2
+page found on 3
+pageNo = 3 file2 
+pageno1 = 78
+page found on 77
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:5 file:test.1 pageNo:6 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:6 file:test.1 pageNo:7 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:7 file:test.1 pageNo:8 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:8 file:test.1 pageNo:9 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:9 file:test.1 pageNo:10 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:10 file:test.1 pageNo:11 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:11 file:test.1 pageNo:12 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:12 file:test.1 pageNo:13 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:13 file:test.1 pageNo:14 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:14 file:test.1 pageNo:15 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.1 pageNo:17 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:17 file:test.1 pageNo:18 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  4
+pageNo = 3 file3 
+page found on 4
+page found on 5
+pageNo = 4 file2 
+pageno1 = 16
+page found on 15
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:7 file:test.1 pageNo:8 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:8 file:test.1 pageNo:9 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:9 file:test.1 pageNo:10 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:10 file:test.1 pageNo:11 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:11 file:test.1 pageNo:12 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:12 file:test.1 pageNo:13 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:13 file:test.1 pageNo:14 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:14 file:test.1 pageNo:15 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:16 file:test.1 pageNo:17 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:17 file:test.1 pageNo:18 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  6
+pageNo = 4 file3 
+page found on 6
+page found on 7
+pageNo = 5 file2 
+pageno1 = 94
+page found on 93
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:9 file:test.1 pageNo:10 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:10 file:test.1 pageNo:11 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:11 file:test.1 pageNo:12 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:12 file:test.1 pageNo:13 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:13 file:test.1 pageNo:14 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:14 file:test.1 pageNo:15 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:16 file:test.1 pageNo:17 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:17 file:test.1 pageNo:18 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  8
+pageNo = 5 file3 
+page found on 8
+page found on 9
+pageNo = 6 file2 
+pageno1 = 36
+page found on 35
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:11 file:test.1 pageNo:12 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:12 file:test.1 pageNo:13 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:13 file:test.1 pageNo:14 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:14 file:test.1 pageNo:15 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:16 file:test.1 pageNo:17 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:17 file:test.1 pageNo:18 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  10
+pageNo = 6 file3 
+page found on 10
+page found on 11
+pageNo = 7 file2 
+pageno1 = 87
+page found on 86
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:13 file:test.1 pageNo:14 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:14 file:test.1 pageNo:15 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:16 file:test.1 pageNo:17 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:17 file:test.1 pageNo:18 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  12
+pageNo = 7 file3 
+page found on 12
+page found on 13
+pageNo = 8 file2 
+pageno1 = 93
+page found on 92
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:16 file:test.1 pageNo:17 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:17 file:test.1 pageNo:18 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  14
+pageNo = 8 file3 
+page found on 14
+page found on 16
+pageNo = 9 file2 
+pageno1 = 50
+page found on 49
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.3 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:17 file:test.2 pageNo:9 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:18 file:test.1 pageNo:19 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:19 file:test.1 pageNo:20 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  17
+pageNo = 9 file3 
+page found on 17
+page found on 18
+pageNo = 10 file2 
+pageno1 = 22
+page found on 21
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.3 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:17 file:test.2 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:18 file:test.3 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:19 file:test.2 pageNo:10 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:20 file:test.1 pageNo:21 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:22 file:test.1 pageNo:23 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  19
+pageNo = 10 file3 
+page found on 19
+page found on 20
+pageNo = 11 file2 
+pageno1 = 63
+page found on 62
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.3 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:17 file:test.2 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:18 file:test.3 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:19 file:test.2 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:20 file:test.3 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.2 pageNo:11 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:23 file:test.1 pageNo:24 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:24 file:test.1 pageNo:25 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  22
+pageNo = 11 file3 
+page found on 22
+page found on 23
+pageNo = 12 file2 
+pageno1 = 28
+page found on 27
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.3 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:17 file:test.2 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:18 file:test.3 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:19 file:test.2 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:20 file:test.3 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.2 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:23 file:test.3 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:24 file:test.2 pageNo:12 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:25 file:test.1 pageNo:26 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:26 file:test.1 pageNo:27 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  24
+pageNo = 12 file3 
+page found on 24
+page found on 25
+pageNo = 13 file2 
+pageno1 = 91
+page found on 90
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.3 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:17 file:test.2 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:18 file:test.3 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:19 file:test.2 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:20 file:test.3 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.2 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:23 file:test.3 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:24 file:test.2 pageNo:12 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:25 file:test.3 pageNo:12 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:26 file:test.2 pageNo:13 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:28 file:test.1 pageNo:29 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:29 file:test.1 pageNo:30 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  26
+pageNo = 13 file3 
+page found on 26
+page found on 28
+pageNo = 14 file2 
+pageno1 = 60
+page found on 59
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.3 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:17 file:test.2 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:18 file:test.3 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:19 file:test.2 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:20 file:test.3 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.2 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:23 file:test.3 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:24 file:test.2 pageNo:12 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:25 file:test.3 pageNo:12 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:26 file:test.2 pageNo:13 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.3 pageNo:13 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:29 file:test.2 pageNo:14 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:30 file:test.1 pageNo:31 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:31 file:test.1 pageNo:32 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  29
+pageNo = 14 file3 
+page found on 29
+page found on 30
+pageNo = 15 file2 
+pageno1 = 64
+page found on 63
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.3 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:17 file:test.2 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:18 file:test.3 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:19 file:test.2 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:20 file:test.3 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.2 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:23 file:test.3 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:24 file:test.2 pageNo:12 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:25 file:test.3 pageNo:12 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:26 file:test.2 pageNo:13 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.3 pageNo:13 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:29 file:test.2 pageNo:14 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:30 file:test.3 pageNo:14 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:31 file:test.2 pageNo:15 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:32 file:test.1 pageNo:33 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:33 file:test.1 pageNo:34 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:1 dirty:1 refbit:1
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  31
+pageNo = 15 file3 
+page found on 31
+page found on 32
+pageNo = 16 file2 
+pageno1 = 27
+page found on 26
+FrameNo:0 file:test.2 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:1 file:test.3 pageNo:1 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:2 file:test.2 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:3 file:test.3 pageNo:2 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:4 file:test.2 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:5 file:test.3 pageNo:3 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:6 file:test.2 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:7 file:test.3 pageNo:4 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:8 file:test.2 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:9 file:test.3 pageNo:5 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:10 file:test.2 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:11 file:test.3 pageNo:6 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:12 file:test.2 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:13 file:test.3 pageNo:7 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:14 file:test.2 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:15 file:test.1 pageNo:16 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:16 file:test.3 pageNo:8 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:17 file:test.2 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:18 file:test.3 pageNo:9 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:19 file:test.2 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:20 file:test.3 pageNo:10 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:21 file:test.1 pageNo:22 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:22 file:test.2 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:23 file:test.3 pageNo:11 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:24 file:test.2 pageNo:12 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:25 file:test.3 pageNo:12 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:26 file:test.2 pageNo:13 valid:1 pinCnt:3 dirty:0 refbit:1
+FrameNo:27 file:test.1 pageNo:28 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:28 file:test.3 pageNo:13 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:29 file:test.2 pageNo:14 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:30 file:test.3 pageNo:14 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:31 file:test.2 pageNo:15 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:32 file:test.3 pageNo:15 valid:1 pinCnt:2 dirty:0 refbit:1
+FrameNo:33 file:test.2 pageNo:16 valid:1 pinCnt:1 dirty:0 refbit:1
+FrameNo:34 file:test.1 pageNo:35 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:35 file:test.1 pageNo:36 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:36 file:test.1 pageNo:37 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:37 file:test.1 pageNo:38 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:38 file:test.1 pageNo:39 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:39 file:test.1 pageNo:40 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:40 file:test.1 pageNo:41 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:41 file:test.1 pageNo:42 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:42 file:test.1 pageNo:43 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:43 file:test.1 pageNo:44 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:44 file:test.1 pageNo:45 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:45 file:test.1 pageNo:46 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:46 file:test.1 pageNo:47 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:47 file:test.1 pageNo:48 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:48 file:test.1 pageNo:49 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:49 file:test.1 pageNo:50 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:50 file:test.1 pageNo:51 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:51 file:test.1 pageNo:52 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:52 file:test.1 pageNo:53 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:53 file:test.1 pageNo:54 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:54 file:test.1 pageNo:55 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:55 file:test.1 pageNo:56 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:56 file:test.1 pageNo:57 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:57 file:test.1 pageNo:58 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:58 file:test.1 pageNo:59 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:59 file:test.1 pageNo:60 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:60 file:test.1 pageNo:61 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:61 file:test.1 pageNo:62 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:62 file:test.1 pageNo:63 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:63 file:test.1 pageNo:64 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:64 file:test.1 pageNo:65 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:65 file:test.1 pageNo:66 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:66 file:test.1 pageNo:67 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:67 file:test.1 pageNo:68 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:68 file:test.1 pageNo:69 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:69 file:test.1 pageNo:70 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:70 file:test.1 pageNo:71 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:71 file:test.1 pageNo:72 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:72 file:test.1 pageNo:73 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:73 file:test.1 pageNo:74 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:74 file:test.1 pageNo:75 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:75 file:test.1 pageNo:76 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:76 file:test.1 pageNo:77 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:77 file:test.1 pageNo:78 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:78 file:test.1 pageNo:79 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:79 file:test.1 pageNo:80 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:80 file:test.1 pageNo:81 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:81 file:test.1 pageNo:82 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:82 file:test.1 pageNo:83 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:83 file:test.1 pageNo:84 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:84 file:test.1 pageNo:85 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:85 file:test.1 pageNo:86 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:86 file:test.1 pageNo:87 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:87 file:test.1 pageNo:88 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:88 file:test.1 pageNo:89 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:89 file:test.1 pageNo:90 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:90 file:test.1 pageNo:91 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:91 file:test.1 pageNo:92 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:92 file:test.1 pageNo:93 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:93 file:test.1 pageNo:94 valid:1 pinCnt:0 dirty:1 refbit:1
+FrameNo:94 file:test.1 pageNo:95 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:95 file:test.1 pageNo:96 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:96 file:test.1 pageNo:97 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:97 file:test.1 pageNo:98 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:98 file:test.1 pageNo:99 valid:1 pinCnt:0 dirty:1 refbit:0
+FrameNo:99 file:test.1 pageNo:100 valid:1 pinCnt:0 dirty:1 refbit:0
+Total Number of Valid Frames:100
+clockHand =  33
