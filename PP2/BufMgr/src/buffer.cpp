@@ -187,6 +187,10 @@ void BufMgr::flushFile(const File* file)
 			if (bufDescTable[i].pinCnt > 0)	{
 				throw PagePinnedException(file->filename(), bufDescTable[i].pageNo, i);
 			}
+		}
+	}	
+	for(FrameId i = 0; i < numBufs; i++) {
+		if (bufDescTable[i].file == file)	{
 			if (! bufDescTable[i].valid) {
 				throw BadBufferException(i, bufDescTable[i].dirty, bufDescTable[i].valid, bufDescTable[i].refbit);
 			}
