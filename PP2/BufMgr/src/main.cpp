@@ -12,6 +12,7 @@
 #include "exceptions/page_not_pinned_exception.h"
 #include "exceptions/page_pinned_exception.h"
 #include "exceptions/buffer_exceeded_exception.h"
+#include "exceptions/bad_buffer_exception.h"
 
 #define PRINT_ERROR(str) \
 { \
@@ -36,6 +37,9 @@ void test3();
 void test4();
 void test5();
 void test6();
+void test7();
+void test8();
+void test9();
 void testBufMgr();
 
 int main() 
@@ -146,6 +150,11 @@ void testBufMgr()
 	test4();
 	test5();
 	test6();
+	test7();
+	test8();
+	test9();
+	
+	delete bufMgr;
 
 	//Close files before deleting them
 	file1.~File();
@@ -154,6 +163,7 @@ void testBufMgr()
 	file4.~File();
 	file5.~File();
 
+
 	//Delete files
 	File::remove(filename1);
 	File::remove(filename2);
@@ -161,8 +171,9 @@ void testBufMgr()
 	File::remove(filename4);
 	File::remove(filename5);
 
-	delete bufMgr;
+	//std::cout <<"lalla\n";
 
+	
 	std::cout << "\n" << "Passed all tests." << "\n";
 }
 
@@ -323,3 +334,91 @@ void test6()
 
 	bufMgr->flushFile(file1ptr);
 }
+
+void test7() {
+	try{
+		for (i = 1; i <= num; i++) {
+			bufMgr->readPage(file1ptr, i, page);
+		}
+		bufMgr->readPage(file2ptr, 1, page);
+		PRINT_ERROR("ERROR: BufferExceededException should be thrown before you see this!");
+	} catch (BufferExceededException e) {
+
+	}
+	for (i = 1; i <= num; i++) {
+		bufMgr->unPinPage(file1ptr, i, true);
+	}
+	std::cout << "Test 7 passed" << "\n";
+	//bufMgr->flushFile(file1ptr);
+}
+
+void test8() {
+	for (i = 1; i <= num-6; i++) {
+		bufMgr->readPage(file5ptr, i, page);
+	}
+
+	PageId readSeq[6] = {1, 3, 5, 2, 4, 6};
+	for (i = 0; i < 6; i++) {
+		bufMgr-> readPage(file1ptr, readSeq[i], page);
+	}
+
+	PageId unPinSeq[3] = {1, 4, 2};
+	for (i = 0; i < 3; i++) {
+		bufMgr-> unPinPage(file1ptr, unPinSeq[i], page);
+	}
+
+	PageId reReadSeq[3] = {7, 8, 9};
+	for (i = 0; i < 3; i++) {
+		bufMgr-> readPage(file1ptr, reReadSeq[i], page);
+	}
+
+	for (i = 0; i < 3; i++) {
+		bufMgr-> unPinPage(file1ptr, reReadSeq[i], page);
+	}
+
+	PageId writeSeq[3] = {4, 2, 1};
+	for (i = 0; i < 3; i++) {
+		bufMgr-> readPage(file1ptr, writeSeq[i], page);
+		sprintf((char*)tmpbuf, "test.1 Page %d %7.1f", i, (float)i);
+		page->insertRecord(tmpbuf);
+	}
+
+	for (i = 1; i < 6; i++) {
+		bufMgr-> readPage(file1ptr, readSeq[i], page);
+	}
+	
+	for (i = 1; i <= num -6; i++) {
+		bufMgr->unPinPage(file5ptr, i, true);
+	}
+
+	for (i = 1; i <= 6; i++) {
+		bufMgr->unPinPage(file1ptr, i, true);
+	}
+
+	std::cout << "Test 8 passed" << "\n";
+}
+
+void test9()
+{	
+	for (i = 1; i <= 6; i++) {
+		bufMgr->disposePage(file1ptr, i);
+	}
+	for (i = 1; i <= 6; i++) {
+		try {
+			bufMgr->readPage(file1ptr, i, page);
+			PRINT_ERROR("ERROR: InvalidPageException should be thrown before you see this!");
+		} catch (InvalidPageException e) {
+
+		}
+	}
+	for (i = 1; i < 7; i++)
+	{
+		bufMgr->allocPage(file1ptr, pid[i], page);
+		sprintf((char*)tmpbuf, "test.1 Page %d %7.1f", pid[i], (float)pid[i]);
+		rid[i] = page->insertRecord(tmpbuf);
+		bufMgr->unPinPage(file1ptr, pid[i], true);
+	}
+	std::cout << "Test 9 passed" << "\n";
+	
+}
+
