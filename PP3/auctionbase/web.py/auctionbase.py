@@ -52,9 +52,64 @@ def render_template(template_name, **context):
 
 urls = ('/currtime', 'curr_time',
         '/selecttime', 'select_time',
+        '/', 'homepage',
+        '/search', 'search',
+        '/viewMore/(.*)', 'viewMore',
+        '/add_bid', 'add_bid'
         # TODO: add additional URLs here
         # first parameter => URL, second parameter => class name
         )
+
+class homepage:
+    # A simple GET request, to '/'
+    #
+    # Notice that we pass in `current_time' to our `render_template' call
+    # in order to have its value displayed on the web page
+    def GET(self):
+        return render_template('app_base.html')
+
+class add_bid:
+    # A simple GET request, to '/add_bid'
+    #
+
+    def GET(self):
+        return render_template('add_bid.html')
+
+    def POST(self):
+        post_params = web.input()
+        itemID = post_params['itemID']
+        userID = post_params['userID']
+        price = post_params['price']
+        result, msg = sqlitedb.addBid(itemID, userID, price)
+        if result == -1:
+            return render_template('add_bid.html', add_result=False, message=msg)
+        else:
+            return render_template('add_bid.html', add_result=True)
+
+class search:
+    # A simple GET request, to '/'
+    #
+    # Notice that we pass in `current_time' to our `render_template' call
+    # in order to have its value displayed on the web page
+    def GET(self):
+        return render_template('search.html')
+
+    def POST(self):
+        post_params = web.input()
+        itemID = post_params['itemID']
+        userID = post_params['userID']
+        minPrice = post_params['minPrice']
+        maxPrice = post_params['maxPrice']
+        itemDesp = post_params['itemDesp']
+        category = post_params['category']
+        status = post_params['status']
+        result, msg = sqlitedb.searchBid(itemID, userID, minPrice, maxPrice, itemDesp, category, status)
+        return render_template('search.html', search_result=result)
+
+class viewMore:
+    def GET(self, keys):
+        result = sqlitedb.getDetails(keys)
+        return render_template('view_more.html', search_result=result)
 
 class curr_time:
     # A simple GET request, to '/currtime'
@@ -82,13 +137,16 @@ class select_time:
         yyyy = post_params['yyyy']
         HH = post_params['HH']
         mm = post_params['mm']
-        ss = post_params['ss'];
+        ss = post_params['ss']
         enter_name = post_params['entername']
 
 
         selected_time = '%s-%s-%s %s:%s:%s' % (yyyy, MM, dd, HH, mm, ss)
         update_message = '(Hello, %s. Previously selected time was: %s.)' % (enter_name, selected_time)
         # TODO: save the selected time as the current time in the database
+        result, msg = sqlitedb.changeTime(selected_time)
+        if result == -1:
+            return render_template('select_time.html', message=msg)
 
         # Here, we assign `update_message' to `message', which means
         # we'll refer to it in our template as `message'

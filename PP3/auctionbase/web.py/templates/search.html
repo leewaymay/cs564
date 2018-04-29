@@ -24,6 +24,14 @@
 	  <input type="text" name="maxPrice" class="form-control" id="maxPrice" />
 	</div>
 	<div class="form-group">
+	  <label for="itemDesp">Item Description</label>
+	  <input type="text" name="itemDesp" class="form-control" id="itemDesp" />
+	</div>
+	<div class="form-group">
+	  <label for="category">Category</label>
+	  <input type="text" name="category" class="form-control" id="category" />
+	</div>
+	<div class="form-group">
 		<label for="status">Status &nbsp;&nbsp;</label>
 		<div class="radio-inline"><label><input type="radio" name="status" value="open">Open</label></div>
 		<div class="radio-inline"><label><input type="radio" name="status" value="close">Close</label></div>
@@ -36,6 +44,9 @@
 <ul>
 {% if search_result %}
 {% for result in search_result %}
+	<form method="POST" action="viewMore" role="form" style="width:100%">
+		<a href = '/viewMore/{{result["ItemID"]}}&{{result["UserID"]}}&{{result["Amount"]}}' target="view_window" class = "btn btn-primary">View more information!</a>
+	</form>
 	{% for key in result %}
 		<div>
 			<span>{{ key|e }}</span>

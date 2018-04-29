@@ -1,0 +1,20 @@
+{% block content %}
+
+<h3>Result</h3>
+<ul>
+{% if search_result %}
+{% for result in search_result %}
+	{% for key in result %}
+		<div>
+			<span>{{ key|e }}</span>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<span>{{ result[key]|e }}</span>
+		</div>
+  	{% endfor %}
+{% endfor %}
+{% else %}
+<div>No results</div>
+{% endif %}
+</ul>
+
+{% endblock %}
