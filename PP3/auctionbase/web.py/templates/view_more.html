@@ -1,20 +1,36 @@
-{% block content %}
+{# base template that other templates can build from. Specifies the title for the
+page and a navigation bar at the top
+see http://jinja.pocoo.org/docs/templates/#template-inheritance for more information #}
 
-<h3>Result</h3>
-<ul>
-{% if search_result %}
-{% for result in search_result %}
-	{% for key in result %}
-		<div>
-			<span>{{ key|e }}</span>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			<span>{{ result[key]|e }}</span>
-		</div>
-  	{% endfor %}
-{% endfor %}
-{% else %}
-<div>No results</div>
-{% endif %}
-</ul>
-
-{% endblock %}
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Details</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="panel panel-default">
+  <div class="panel-body" style="padding:0 10% 20px 10%">
+  <div id="content">
+	  <h3>Result</h3>
+		<ul>
+		{% if search_result %}
+		{% for result in search_result %}
+			{% for key in result %}
+				<div>
+					<span>{{ key|e }}</span>
+					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<span>{{ result[key]|e }}</span>
+				</div>
+			{% endfor %}
+		{% endfor %}
+		{% else %}
+		<div>No results</div>
+		{% endif %}
+		</ul>
+  </div>
+  </div></div>
+</body>
+</html>

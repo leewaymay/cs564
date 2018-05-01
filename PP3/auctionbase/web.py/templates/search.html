@@ -12,10 +12,6 @@
 	  <input type="text" class="form-control" id="itemID" name="itemID" />
 	</div>
 	<div class="form-group">
-	  <label for="userID">User ID</label>
-	  <input type="text" name="userID" class="form-control" id="userID" />
-	</div>
-	<div class="form-group">
 	  <label for="minPrice">Min Price</label>
 	  <input type="text" name="minPrice" class="form-control" id="minPrice" />
 	</div>
@@ -45,7 +41,7 @@
 {% if search_result %}
 {% for result in search_result %}
 	<form method="POST" action="viewMore" role="form" style="width:100%">
-		<a href = '/viewMore/{{result["ItemID"]}}&{{result["UserID"]}}&{{result["Amount"]}}' target="view_window" class = "btn btn-primary">View more information!</a>
+		<a href = '/viewMore/{{result["ItemID"]}}' target="view_window" class = "btn btn-primary">View more information!</a>
 	</form>
 	{% for key in result %}
 		<div>

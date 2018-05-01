@@ -97,14 +97,19 @@ class search:
     def POST(self):
         post_params = web.input()
         itemID = post_params['itemID']
-        userID = post_params['userID']
         minPrice = post_params['minPrice']
         maxPrice = post_params['maxPrice']
         itemDesp = post_params['itemDesp']
         category = post_params['category']
         status = post_params['status']
-        result, msg = sqlitedb.searchBid(itemID, userID, minPrice, maxPrice, itemDesp, category, status)
-        return render_template('search.html', search_result=result)
+        if itemID or minPrice or maxPrice or itemDesp or category:
+            result, msg = sqlitedb.searchAuctions(itemID, minPrice, maxPrice, itemDesp, category, status)
+            message = 'Search performed. '+msg
+        else:
+            result = []
+            message = 'No inputs given'
+            print("Nothinginput");
+        return render_template('search.html', search_result=result, message=message)
 
 class viewMore:
     def GET(self, keys):
